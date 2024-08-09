@@ -1,4 +1,4 @@
-# Challenge-4
+# Challenge-6
 
 ## Purpose and Description
 
@@ -14,7 +14,8 @@ The user inputs a city or clicks on from under the search bar. Then the website 
 
 ## Design
 
-![alt text](assets\Challenge-6ss.jpg)
+
+![Challenge-6ss](https://github.com/user-attachments/assets/7757f7e5-36f8-4d3a-ad38-c0280b720d68)
 
 
 
